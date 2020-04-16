@@ -26,7 +26,7 @@ Sucht euch einen Platz nah genug am WLAN, wo ihr das Handy/Tablet sicher abstell
 Ihr solltet das Display sehen können und von der Kamera auch aufgenommen werden können.  
 Ihr solltet genug Platz haben um nichts kaputt zu machen.  
 Ladet auf euer Tablet oder Handy die App Zoom:  
-Apple: https://apps.apple.com/de/app/zoom-cloud-meetings/id546505307 
+Apple: https://apps.apple.com/de/app/zoom-cloud-meetings/id546505307  
 Android: https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=de  
 Ich schick dann kurz vorher einen Link auf den ihr dann einfach klickt.  
 Ihr werdet dann automatisch in die App geleitet und müsst noch ein paar Zugriffe auf Mikro usw. zulassen.   
