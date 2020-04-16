@@ -18,8 +18,10 @@ Ob dein Sport sich eignet musst du selbst entscheiden. Vllt kannst du ja mit dei
 Wir haben ein kleines Video für euch gedreht, das sollte alles erklären.
 
 ### Cybertraining ankündigen
-_Wer mal wieder Lust auf Sport hat, kann heute Cybertraining mit mir ausprobieren.
-Wir bleiben zu Hause, sehen uns via App und machen gemeinsam Übungen.
+_Wer mal wieder Lust auf Sport hat, kann heute Cybertraining mit mir ausprobieren._
+
+_Wir bleiben zu Hause, sehen uns via App und machen gemeinsam Übungen._ 
+
 Ihr braucht:
 Ein Handy oder Tablet, WLAN, Sportsachen, euer Sportgerät.
 Sucht euch einen Platz nah genug am WLAN, wo ihr das Handy/Tablet sicher abstellen könnt (Handyhalter?)
@@ -35,17 +37,18 @@ Und schon geht's los mit dem Cybertraining._
 ### Meeting erstellen und Link versenden
 Video to come
 
-###
+### Und was mache ich jetzt?
+Das weißt du als Trainer bestimmt viel besser als wir.
+Falls du aber Anregungen brauchst geh doch mal auf die Seite mit unseren [Challenges](https://phimichel.github.io/ZusammenAlleinChallenges/index.html).
 
 
 
-You can use the [editor on GitHub](https://github.com/lutzkohl/Cybertraining/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+
 
 ```markdown
 Syntax highlighted code block
