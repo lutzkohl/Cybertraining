@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+### Willkommen beim Cybertraining
+
+Auf dieser Seite wollen wir Hilfestellungen geben, wie man in Vereinen Cybertraining initialisieren kann, so dass das Vereinsleben auch bei Social Distancing weitergehen kann. 
+
+Wir erklären auf dieser Seite wie du als Trainer dein Team zum Cybertraining bringst.
+Parallel eignen sich auch [Challenges](https://phimichel.github.io/ZusammenAlleinChallenges/index.html) um einen ersten Einstieg in Social Distance Training zu bekommen.
+
+## Für wen eignet sich Cybertraining
+Es gibt Sportarten bei denen sich Cybertraining mehr eignet wie z.b. Karate und welche wo es vllt. nicht ganz so gut geeinget ist wie Synchronschwimmen.
+Ob dein Sport sich eignet musst du selbst entscheiden. Vllt kannst du ja mit deinem Team zumindest Kraft und Ausdauerübungen gemeinsam machen, oder ihr trefft euch einfach mal so virtuell.
+
+##
+
 
 You can use the [editor on GitHub](https://github.com/lutzkohl/Cybertraining/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
