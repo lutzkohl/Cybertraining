@@ -15,7 +15,7 @@ Es gibt Sportarten bei denen sich Cybertraining mehr eignet wie z.b. Karate und 
 Ob dein Sport sich eignet musst du selbst entscheiden. Vllt kannst du ja mit deinem Team zumindest Kraft und Ausdauerübungen gemeinsam machen, oder ihr trefft euch einfach mal so virtuell.
 
 ### Meetingsoftware Zoom herunterladen und Nutzer für Trainer registrieren
-Wir haben ein kleines Video für euch gedreht, das sollte alles erklären.
+Wir haben ein kleines [Video](https://youtu.be/H-uyyE9ly6E) für euch gedreht, das sollte alles erklären.
 
 ### Cybertraining ankündigen
 _Wer mal wieder Lust auf Sport hat, kann heute Cybertraining mit mir ausprobieren._
@@ -33,6 +33,9 @@ Android: https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=
 Ich schick dann kurz vorher einen Link auf den ihr dann einfach klickt.
 Ihr werdet dann automatisch in die App geleitet und müsst noch ein paar Zugriffe auf Mikro usw. zulassen. 
 Und schon geht's los mit dem Cybertraining._
+
+### Erklärvideo für Teilnehmer
+_Für alle denen das zuviel Text war, hier noch ein kurzes [Video:](https://youtu.be/H-uyyE9ly6E) https://youtu.be/H-uyyE9ly6E_
 
 ### Meeting erstellen und Link versenden
 Video to come
