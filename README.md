@@ -33,7 +33,7 @@ Ihr werdet dann automatisch in die App geleitet und müsst noch ein paar Zugriff
 Und schon geht's los mit dem Cybertraining._
 
 ### Erklärvideo für Teilnehmer
-_Für alle denen das zuviel Text war, hier noch ein kurzes [Video:](https://youtu.be/H-uyyE9ly6E) https://youtu.be/H-uyyE9ly6E_
+_Für alle denen das zuviel Text war, hier noch ein kurzes [Video:](https://youtu.be/QvUTj2ogdHU) https://youtu.be/QvUTj2ogdHU_
 
 ### Meeting erstellen und Link versenden
 Video to come
