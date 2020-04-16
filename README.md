@@ -14,12 +14,14 @@ Beim Cybertraining treffen sich Team und Trainer via Videoübertragung mittels e
 Es gibt Sportarten bei denen sich Cybertraining mehr eignet wie z.b. Karate und welche wo es vllt. nicht ganz so gut geeinget ist wie Synchronschwimmen.
 Ob dein Sport sich eignet musst du selbst entscheiden. Vllt kannst du ja mit deinem Team zumindest Kraft und Ausdauerübungen gemeinsam machen, oder ihr trefft euch einfach mal so virtuell.
 
+### Meetingsoftware Zoom herunterladen und Nutzer für Trainer registrieren
+Wir haben ein kleines Video für euch gedreht, das sollte alles erklären.
+
 ### Cybertraining ankündigen
 _Wer mal wieder Lust auf Sport hat, kann heute Cybertraining mit mir ausprobieren.
 Wir bleiben zu Hause, sehen uns via App und machen gemeinsam Übungen.
 Ihr braucht:
 Ein Handy oder Tablet, WLAN, Sportsachen, euer Sportgerät.
-
 Sucht euch einen Platz nah genug am WLAN, wo ihr das Handy/Tablet sicher abstellen könnt (Handyhalter?)
 Ihr solltet das Display sehen können und von der Kamera auch aufgenommen werden können.
 Ihr solltet genug Platz haben um nichts kaputt zu machen.
@@ -29,6 +31,11 @@ Android: https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=
 Ich schick dann kurz vorher einen Link auf den ihr dann einfach klickt.
 Ihr werdet dann automatisch in die App geleitet und müsst noch ein paar Zugriffe auf Mikro usw. zulassen. 
 Und schon geht's los mit dem Cybertraining._
+
+### Meeting erstellen und Link versenden
+Video to come
+
+###
 
 
 
