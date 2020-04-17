@@ -41,12 +41,10 @@ Und schon geht's los mit dem Cybertraining.
 ``` 
 
 ### Erklärvideo für Teilnehmer
-```
-Für alle denen das zuviel Text war, hier noch ein kurzes [Video](https://youtu.be/QvUTj2ogdHU):
-
 [<img src="Cybertraining-2_handy-preview-small.jpg" alt="Video Link"
 	title="Video Link" width="250" />](https://youtu.be/QvUTj2ogdHU)
-
+```
+Für alle denen das zuviel Text war, hier noch ein kurzes [Video](https://youtu.be/QvUTj2ogdHU):
 Gleich schicke ich euch den Link zum Meeting.  
 Damit könnt ihr schonmal die Technik ausprobieren.   
 Wundert euch nicht wenn ihr dort erstmal noch keinen trefft.  
