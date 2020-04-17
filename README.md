@@ -3,7 +3,7 @@
 Auf dieser Seite wollen wir Hilfestellungen geben, wie man in Vereinen Cybertraining initialisieren kann, so dass das Vereinsleben auch bei Social Distancing weitergehen kann. 
 
 Wir erklären auf dieser Seite wie du als Trainer dein Team zum Cybertraining bringst.
-Wir geben Video- und Textbeispiele, die du gern für deine Kommunikation nutzen kannst.
+Wir geben Video- und _Textbeispiele_, die du gern für deine Kommunikation z.B. in den Gruppen nutzen kannst.
 Parallel eignen sich auch [Challenges](https://phimichel.github.io/ZusammenAlleinChallenges/index.html), um einen ersten Einstieg in Social Distance Training zu bekommen.
 
 
