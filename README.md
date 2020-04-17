@@ -7,7 +7,7 @@ Wir haben ein paar Videos damit du ihr die Technik schnell hinbekommt.
 Und wir haben als Vorlagen für deine Mails oder Gruppennachrichten eine paar ```Textbeispiele``` 
 Zur Motivation hier aber erstmal ein kleines [Video](https://youtu.be/qiL5HIlWSo4) von einem Trainer der es probiert hat:
 
-[<img src="Cybertraining-1_handy-preview-small.jpg" alt="Video Link"
+[<img src="Cybertraining-4_preview.jpg" alt="Video Link"
 	title="Video Link" width="250" />](https://youtu.be/qiL5HIlWSo4)
 
 Parallel eignen sich auch [Challenges](https://phimichel.github.io/ZusammenAlleinChallenges/index.html), um einen ersten Einstieg in Social Distance Training zu bekommen.
