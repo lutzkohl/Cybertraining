@@ -17,7 +17,7 @@ Ob dein Sport sich eignet, musst du selbst entscheiden. Vielleicht kannst du ja 
 ### Meetingsoftware Zoom herunterladen und Nutzer für Trainer registrieren
 Wir haben ein kleines [Video](https://youtu.be/H-uyyE9ly6E) für euch gedreht, das sollte alles erklären.
 
-[<img src="https://github.com/lutzkohl/Cybertraining/blob/master/Cybertraining-1_handy-preview-small.jpg" alt="Video Link"
+[<img src="Cybertraining-1_handy-preview-small.jpg" alt="Video Link"
 	title="Video Link" width="250" />](https://youtu.be/H-uyyE9ly6E)
   
 
@@ -39,7 +39,7 @@ Und schon geht's los mit dem Cybertraining._
 ### Erklärvideo für Teilnehmer
 _Für alle denen das zuviel Text war, hier noch ein kurzes [Video](https://youtu.be/QvUTj2ogdHU):
 
-[<img src="https://github.com/lutzkohl/Cybertraining/blob/master/Cybertraining-2_handy-preview-small.jpg" alt="Video Link"
+[<img src="Cybertraining-2_handy-preview-small.jpg" alt="Video Link"
 	title="Video Link" width="250" />](https://youtu.be/QvUTj2ogdHU)
 
 Gleich schicke ich euch den Link zum Meeting.  
@@ -51,7 +51,7 @@ Spätestens zur vereinbarten Zeit bin ich dann auch drin :-)._
 ### Meeting erstellen und Link versenden
 Wir haben ein kleines [Video](https://youtu.be/ZwTNwkgXiKg) für euch gedreht, das sollte alles erklären.
 
-[<img src="https://github.com/lutzkohl/Cybertraining/blob/master/Cybertraining-3_handy-preview-small.jpg" alt="Video Link"
+[<img src="Cybertraining-3_handy-preview-small.jpg" alt="Video Link"
 	title="Video Link" width="250" />](https://youtu.be/ZwTNwkgXiKg)
 
 
