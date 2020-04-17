@@ -4,8 +4,7 @@ Auf dieser Seite wollen wir Hilfestellungen geben, wie man in Vereinen Cybertrai
 
 Wir erklären auf dieser Seite wie du als Trainer dein Team zum Cybertraining bringst.
 Wir haben ein paar Videos damit du ihr die Technik schnell hinbekommt.  
-Und wir haben als Vorlagen für deine Mails oder Gruppennachrichten eine paar:
-```Textbeispiele``` 
+Und wir haben als Vorlagen für deine Mails oder Gruppennachrichten eine paar ```Textbeispiele``` 
 
 Parallel eignen sich auch [Challenges](https://phimichel.github.io/ZusammenAlleinChallenges/index.html), um einen ersten Einstieg in Social Distance Training zu bekommen.
 
@@ -25,7 +24,7 @@ Wir haben ein kleines [Video](https://youtu.be/H-uyyE9ly6E) für euch gedreht, d
   
 
 ### Cybertraining ankündigen
-_Wer mal wieder Lust auf Sport hat, kann heute Cybertraining mit mir ausprobieren.  
+```Wer mal wieder Lust auf Sport hat, kann heute Cybertraining mit mir ausprobieren.  
 Wir bleiben zu Hause, sehen uns via App und machen gemeinsam Übungen.  
 Ihr braucht:  
 Ein Handy oder Tablet, WLAN, Sportsachen, euer Sportgerät.  
@@ -37,10 +36,10 @@ Apple: https://apps.apple.com/de/app/zoom-cloud-meetings/id546505307
 Android: https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=de  
 Ich schick dann kurz vorher einen Link, auf den ihr dann einfach klickt.  
 Ihr werdet dann automatisch in die App geleitet und müsst noch ein paar Zugriffe auf Mikro usw. zulassen.   
-Und schon geht's los mit dem Cybertraining._
+Und schon geht's los mit dem Cybertraining.``` 
 
 ### Erklärvideo für Teilnehmer
-_Für alle denen das zuviel Text war, hier noch ein kurzes [Video](https://youtu.be/QvUTj2ogdHU):
+```Für alle denen das zuviel Text war, hier noch ein kurzes [Video](https://youtu.be/QvUTj2ogdHU):
 
 [<img src="Cybertraining-2_handy-preview-small.jpg" alt="Video Link"
 	title="Video Link" width="250" />](https://youtu.be/QvUTj2ogdHU)
@@ -48,7 +47,7 @@ _Für alle denen das zuviel Text war, hier noch ein kurzes [Video](https://youtu
 Gleich schicke ich euch den Link zum Meeting.  
 Damit könnt ihr schonmal die Technik ausprobieren.   
 Wundert euch nicht wenn ihr dort erstmal noch keinen trefft.  
-Spätestens zur vereinbarten Zeit bin ich dann auch drin :-)._
+Spätestens zur vereinbarten Zeit bin ich dann auch drin :-).```
 
 
 ### Meeting erstellen und Link versenden
