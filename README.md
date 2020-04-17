@@ -17,6 +17,7 @@ Ob dein Sport sich eignet, musst du selbst entscheiden. Vielleicht kannst du ja 
 ### Meetingsoftware Zoom herunterladen und Nutzer für Trainer registrieren
 Wir haben ein kleines [Video](https://youtu.be/H-uyyE9ly6E) für euch gedreht, das sollte alles erklären.
 
+
 ### Cybertraining ankündigen
 _Wer mal wieder Lust auf Sport hat, kann heute Cybertraining mit mir ausprobieren.  
 Wir bleiben zu Hause, sehen uns via App und machen gemeinsam Übungen.  
@@ -42,6 +43,7 @@ Spätestens zur vereinbarten Zeit bin ich dann auch drin :-)._
 
 ### Meeting erstellen und Link versenden
 Wir haben ein kleines [Video](https://youtu.be/ZwTNwkgXiKg) für euch gedreht, das sollte alles erklären.
+[![Video Link](https://github.com/lutzkohl/Cybertraining/blob/master/Cybertraining-1_handy-preview.jpg)](https://youtu.be/ZwTNwkgXiKg)
 
 
 ### Und was mache ich jetzt im Cybertraining mit meinem Team?
