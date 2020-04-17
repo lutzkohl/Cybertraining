@@ -33,10 +33,16 @@ Ihr werdet dann automatisch in die App geleitet und müsst noch ein paar Zugriff
 Und schon geht's los mit dem Cybertraining._
 
 ### Erklärvideo für Teilnehmer
-_Für alle denen das zuviel Text war, hier noch ein kurzes [Video:](https://youtu.be/QvUTj2ogdHU) https://youtu.be/QvUTj2ogdHU_
+_Für alle denen das zuviel Text war, hier noch ein kurzes [Video:](https://youtu.be/QvUTj2ogdHU) https://youtu.be/QvUTj2ogdHU. 
+Gleich schicke ich euch den Link zum Meeting.  
+Damit könnt ihr schonmal die Technik ausprobieren.   
+Wundert euch nicht wenn ihr dort erstmal noch keinen trefft.  
+Spätestens zur vereinbarten Zeit bin ich dann auch drin :-)._
+
 
 ### Meeting erstellen und Link versenden
-Video to come
+Wir haben ein kleines [Video](https://youtu.be/ZwTNwkgXiKg) für euch gedreht, das sollte alles erklären.
+
 
 ### Und was mache ich jetzt im Cybertraining mit meinem Team?
 Das weißt du als Trainer bestimmt viel besser als wir.
