@@ -15,7 +15,7 @@ Es gibt Sportarten, bei denen sich Cybertraining mehr eignet wie z.b. Karate und
 Ob dein Sport sich eignet, musst du selbst entscheiden. Vielleicht kannst du ja mit deinem Team zumindest Kraft und Ausdauerübungen gemeinsam machen, oder ihr trefft euch einfach mal so virtuell.
 
 ### Meetingsoftware Zoom herunterladen und Nutzer für Trainer registrieren
-Wir haben ein kleines Video(https://youtu.be/H-uyyE9ly6E) für euch gedreht, das sollte alles erklären.
+Wir haben ein kleines [Video](https://youtu.be/H-uyyE9ly6E) für euch gedreht, das sollte alles erklären.
 
 [<img src="https://github.com/lutzkohl/Cybertraining/blob/master/Cybertraining-1_handy-preview-small.jpg" alt="Video Link"
 	title="Video Link" width="250" />](https://youtu.be/H-uyyE9ly6E)
@@ -37,7 +37,7 @@ Ihr werdet dann automatisch in die App geleitet und müsst noch ein paar Zugriff
 Und schon geht's los mit dem Cybertraining._
 
 ### Erklärvideo für Teilnehmer
-_Für alle denen das zuviel Text war, hier noch ein kurzes Video(https://youtu.be/QvUTj2ogdHU):
+_Für alle denen das zuviel Text war, hier noch ein kurzes [Video](https://youtu.be/QvUTj2ogdHU):
 
 [<img src="https://github.com/lutzkohl/Cybertraining/blob/master/Cybertraining-2_handy-preview-small.jpg" alt="Video Link"
 	title="Video Link" width="250" />](https://youtu.be/QvUTj2ogdHU)
@@ -49,7 +49,7 @@ Spätestens zur vereinbarten Zeit bin ich dann auch drin :-)._
 
 
 ### Meeting erstellen und Link versenden
-Wir haben ein kleines Video(https://youtu.be/ZwTNwkgXiKg) für euch gedreht, das sollte alles erklären.
+Wir haben ein kleines [Video](https://youtu.be/ZwTNwkgXiKg) für euch gedreht, das sollte alles erklären.
 
 [<img src="https://github.com/lutzkohl/Cybertraining/blob/master/Cybertraining-3_handy-preview-small.jpg" alt="Video Link"
 	title="Video Link" width="250" />](https://youtu.be/ZwTNwkgXiKg)
