@@ -32,7 +32,7 @@ Wir haben ein kleines [Video](https://youtu.be/H-uyyE9ly6E) für euch gedreht, d
 Wer mal wieder Lust auf Sport hat, kann heute Cybertraining mit mir ausprobieren.  
 Wir bleiben zu Hause, sehen uns via App und machen gemeinsam Übungen.  
 Ihr braucht:  
-Ein Handy oder Tablet, WLAN, Sportsachen, euer Sportgerät.  
+Ein Handy oder Tablet, WLAN, Sportsachen, was zu Trinken, euer Sportgerät.  
 Sucht euch einen Platz nah genug am WLAN, wo ihr das Handy/Tablet sicher abstellen könnt (Handyhalter?).   
 Ihr solltet das Display sehen können und von der Kamera auch aufgenommen werden können.  
 Ihr solltet genug Platz haben, um nichts kaputt zu machen.  
