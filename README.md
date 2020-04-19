@@ -67,3 +67,6 @@ Wir haben ein kleines [Video](https://youtu.be/ZwTNwkgXiKg) für euch gedreht, d
 Das weißt du als Trainer bestimmt viel besser als wir. Einen Tipp können wir dir geben: Bereite dich ein wenig vor, die Technik wird dich beim erstenmal ablenken und da ist es gut wenn du einen Fahrplan hast.  
 Falls du aber Anregungen brauchst geh doch mal auf die Seite mit unseren [Challenges](https://phimichel.github.io/ZusammenAlleinChallenges/index.html).
 
+### Feedback
+Wir freuen uns über eure Erfahrungen, Bilder, Geschichten vom Cybertraining und natürlich über Verbesserungsvorschläge für die Seite per Mail an: [zusammenalleinchallenge@gmail.com](mailto:zusammenalleinchallenge@gmail.com?subject=Cybertraining)
+
