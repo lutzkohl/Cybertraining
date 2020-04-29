@@ -69,5 +69,5 @@ Das weißt du als Trainer bestimmt viel besser als wir. Einen Tipp können wir d
 Falls du aber Anregungen brauchst geh doch mal auf die Seite mit unseren [Challenges](https://phimichel.github.io/ZusammenAlleinChallenges/index.html).
 
 ### Feedback
-Wir freuen uns über eure Erfahrungen, Bilder, Geschichten vom Cybertraining und natürlich über Verbesserungsvorschläge für die Seite per Mail an: [zusammenalleinchallenge@gmail.com](mailto:zusammenalleinchallenge@gmail.com?subject=Cybertraining)
+Wir freuen uns über eure Erfahrungen, Bilder, Geschichten vom Cybertraining und natürlich über Verbesserungsvorschläge für die Seite per Mail an: [k.salewski@ssb-jena.de](mailto:k.salewski@ssb-jena.de?subject=Cybertraining)
 
