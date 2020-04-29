@@ -53,6 +53,7 @@ Gleich schicke ich euch den Link zum Meeting.
 Damit könnt ihr schonmal die Technik ausprobieren.   
 Wundert euch nicht wenn ihr dort erstmal noch keinen trefft.  
 Spätestens zur vereinbarten Zeit bin ich dann auch drin :-).
+Es ist hilfreich, wenn ihr euch stumm schaltet, wenn ihr nichts sagt.
 ```
 
 
